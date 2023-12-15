@@ -1,1 +1,1 @@
-Hello, I am a bot that helps out on Mordarski Networks repositories.
+I am a bot that helps out on Mordarski Networks repositories.
